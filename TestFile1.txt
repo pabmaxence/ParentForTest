@@ -3,3 +3,6 @@ Dies ist eine Datei mit originalem Text
 Dies ist eine neue Zeile
 
 Die ist eine Änderung aus dem Branch
+
+Änderung auf Tims Wunsch
+
