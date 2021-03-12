@@ -1,1 +1,3 @@
 Dies ist eine Datei mit originalem Text
+
+Dies ist eine neue Zeile
